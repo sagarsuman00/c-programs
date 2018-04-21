@@ -1,7 +1,8 @@
-/*implementation of generic linked list. all functions are tested on ubuntu 16.04.
-  created by : sagar suman
-date : 15/04/2018
-email : sagarsuman00@gmail.com
+/*
+ * @author sagar
+ * @date 4/15/2018
+ * 
+ * generic single linked list
  */
 
 
