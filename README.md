@@ -1,1 +1,1 @@
- c basic programs
+All programs are created and tested in linux.
